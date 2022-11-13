@@ -10,7 +10,7 @@ Aperçu de QField sur différents OS:
 
 *QField Android smartphone et Tablette*
 
-<img src="ImageQField_Android_smartphone.jpg" alt="ImageQField_Android_smartphone" style="zoom: 25%;" /> <img src="ImageQField_Android_Tablette.jpg" alt="ImageQField_Android_Tablette" style="zoom:25%;" />
+<img src="ImageQField_Android_smartphone_300px.jpg" alt="ImageQField_Android_smartphone" style="zoom: 25%;" /> <img src="ImageQField_Android_Tablette_500px.jpg" alt="ImageQField_Android_Tablette" style="zoom:25%;" />
 
 
 
