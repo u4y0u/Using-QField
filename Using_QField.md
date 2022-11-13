@@ -6,11 +6,11 @@ Aperçu de QField sur différents OS:
 
 *QField Linux* 
 
-![ImageQField_Linux](/home/administrateur/Documents/github/ZAPM FRANCE NRO PMZ/documents github/utilisation QField/ImageQField_Linux.png)
+![ImageQField_Linux](ImageQField_Linux.png)
 
 *QField Android smartphone et Tablette*
 
-<img src="/home/administrateur/Documents/github/ZAPM FRANCE NRO PMZ/documents github/utilisation QField/ImageQField_Android_smartphone.jpg" alt="ImageQField_Android_smartphone" style="zoom: 25%;" /> <img src="/home/administrateur/Documents/github/ZAPM FRANCE NRO PMZ/documents github/utilisation QField/ImageQField_Android_Tablette.jpg" alt="ImageQField_Android_Tablette" style="zoom:25%;" />
+<img src="ImageQField_Android_smartphone.jpg" alt="ImageQField_Android_smartphone" style="zoom: 25%;" /> <img src="ImageQField_Android_Tablette.jpg" alt="ImageQField_Android_Tablette" style="zoom:25%;" />
 
 
 
