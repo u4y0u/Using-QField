@@ -6,7 +6,7 @@ Aperçu de QField sur différents OS:
 
 *QField Linux* 
 
-![ImageQField_Linux](ImageQField_Linux.png)
+<img src="ImageQField_Linux.png" alt="ImageQField_Linux" style="zoom:50%;" />
 
 *QField Android smartphone et Tablette*
 
