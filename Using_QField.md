@@ -29,3 +29,8 @@ Utiliser '+' puis 'importer à partir d'un dossier', puis choisir le dossier ...
 
 
 
+L'écran Paramètres vous permet de régler vos préférences.
+
+On y trouve, entre autre, le délai d'assombrissement de l'écran en cas d'inactivité, l'indicateur de précision du GPS dans l'onglet 'Positionnement' et aussi une gestion des variables.
+
+![ImageQField_Android_paramètres_400px](ImageQField_Android_paramètres_400px.jpg) 
